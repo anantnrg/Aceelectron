@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-app-region: none;
+}
+
+body {
+    background-color: transparent;
+    color: #FAFAFA;
+    overflow: hidden;
+}
+
+.main-app {
+    width: 100vw;
+    height: 100vh;
+    border-radius: 10px;
+    background-color: #131418;
+    overflow: hidden;
+}

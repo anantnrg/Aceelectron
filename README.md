@@ -1,2 +1,2 @@
 # Aceeletron
-An awesome Electron.js boilerplate with custom windows and titlebars.
+ An awesome boilerplate with custom windows for Electron.js

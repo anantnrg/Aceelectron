@@ -1,0 +1,15 @@
+{
+  "name": "awake",
+  "version": "1.0.0",
+  "description": "Anant's Swiss Army Knife",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Anant Narayan",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "^20.0.3",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}

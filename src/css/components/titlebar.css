@@ -1,0 +1,81 @@
+/* This is the css for the titlebar. Modifying this will change how your titlebar looks */
+
+.titlebar {
+    width: 100vw;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    background-color: #24252b;
+    -webkit-app-region: drag;
+}
+
+.title_name {
+    font-family: montserrat;
+    font-size: 16px;
+    margin-left: auto;
+    user-select: none;
+}
+
+.title_btns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin-left: auto;
+}
+
+.min_btn,
+.close_btn {
+    margin-right: 15px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: 0;
+    animation: out 0.3s;
+}
+
+.min_btn:hover,
+.close_btn:hover {
+    width: 14px;
+    height: 14px;
+    animation: hover 0.3s;
+    box-shadow: 0 0 15px 5px #FAFAFA;
+    margin-left: auto;
+}
+
+.min_btn {
+    background-color: #00CA4E;
+}
+
+.close_btn {
+    background-color: #D64340;
+}
+
+@keyframes out {
+    from {
+        width: 14px;
+        height: 14px;
+        box-shadow: 0 0 15px 5px #FAFAFA;
+    }
+
+    to {
+        width: 12px;
+        height: 12px;
+        box-shadow: 0 0 0px 0px #FAFAFA;
+    }
+}
+
+@keyframes hover {
+    from {
+        width: 12px;
+        height: 12px;
+        box-shadow: 0 0 0px 0px #FAFAFA;
+    }
+
+    to {
+        width: 14px;
+        height: 14px;
+        box-shadow: 0 0 15px 5px #FAFAFA;
+    }
+}
