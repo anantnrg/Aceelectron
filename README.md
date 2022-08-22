@@ -3,7 +3,7 @@
 
 ![ ](https://github.com/anantnrg/Aceelectron/blob/main/readme/aceelectron_mss.png?raw=true)
 
-**Aceelectron** (pronounced *eɪs-ɪˈlɛktrɒn*) is an awesome Electron.js :electron: boilerplate. It is designed to accelerate your Electron.js app develeopment. It includes by default, a customized window, titlebar, rounded corners, a transparent background and Hot Reloading. It is built so that you can get a head start into Electron.js and don't have to spend time creating a base environment for your project.
+**Aceelectron** (pronounced *eɪs-ɪˈlɛktrɒn*) is an awesome Electron.js :electron: boilerplate. It is designed to accelerate your Electron.js app develeopment. It includes by default, a customized window, titlebar, rounded corners, a transparent background, a custom icon and Hot Reloading. It is built so that you can get a head start into Electron.js and don't have to spend time creating a base environment for your project.
 
 Made with :heart: by Anant Narayan. Check out my [other projects](https://github.com/anantnrg)
 
