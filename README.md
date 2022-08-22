@@ -28,6 +28,11 @@ Here ```myproj``` is the name of your Electron.js project.
 Next, you have to install the required packages to run Electron.js. They have to be installed using Node.js. You haven't installed it on your machine, then go to the [Node.js Website](https://nodejs.org) and download either the LTS release or latest stable release. Then install it by running the .exe file. After Node.js has been installed, run
 </br>
 ```
+cd myproj
+```
+to change directory into your downloaded folder, then run
+</br>
+```
 npm install
 ```
 to install the dependencies and 
