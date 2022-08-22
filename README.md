@@ -20,7 +20,7 @@ Next, you have to install the required packages to run Electron.js. They have to
 ```
 npm install
 ```
-to install the dependdencies and 
+to install the dependencies and 
 </br>
 ```
 npm install electron electron-reload
