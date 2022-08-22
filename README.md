@@ -14,6 +14,7 @@ Made with :heart: by Anant Narayan. Check out my [other projects](https://github
    - [Features](#Features)
    - [TODO](#TODO)
    - [Known Bugs](#Known-Bugs)
+   - [Contributing](#Contributing)
    
 
 <!-- /TOC -->
@@ -25,7 +26,7 @@ git clone https://github.com/anantnrg/aceelectron myproj
 ```
 Here ```myproj``` is the name of your Electron.js project.
 
-Next, you have to install the required packages to run Electron.js. They have to be installed using Node.js. You haven't installed it on your machine, then go to the [Node.js Website](https://nodejs.org) and download either the LTS release or latest stable release. Then install it by running the .exe file. After Node.js has been installed, run
+Next, you have to install the required packages to run Electron.js. They have to be installed using Node.js. If you haven't installed it on your machine, then go to the [Node.js Website](https://nodejs.org) and download either the LTS release or latest stable release. Then install it by running the .exe file. After Node.js has been installed, run
 </br>
 ```
 cd myproj
@@ -40,7 +41,7 @@ to install the dependencies and
 ```
 npm install electron electron-reload
 ```
-to install Electron.js and the electron-reload package. The electron-reload package is what enables the Hot Reloading i.e., when you change the HTML, CSS or ```renderer.js```, your app will be reloaded automatically. Note that this does not reload the app if you make any changes to the ```main.js``` file.
+to install Electron.js and the electron-reload package. The electron-reload package is what enables the Hot Reloading i.e., when you change the HTML, CSS or ```renderer.js``` file, your app will be reloaded automatically. Note that this does not reload the app if you make any changes to the ```main.js``` file.
 
 Then you can run the app by entering
 </br>
