@@ -10,23 +10,33 @@ Made with :heart: by Anant Narayan. Check out my [other projects](https://github
 <!-- TOC -->
 ## Table Of Contents
 - [Aceelectron](#Aceelectron)
-   - [Usage](#Usage)
-   - [Features](#Features)
-   - [TODO](#TODO)
-   - [Known Bugs](#Known-Bugs)
-   - [Contributing](#Contributing)
+   - [Getting Started](#Getting-Started)
+      - [Usage](#Usage)
+      - [Features](#Features)
+      - [TODO](#TODO)
+      - [Known Bugs](#Known-Bugs)
+      - [Contributing](#Contributing)
    
 
 <!-- /TOC -->
 
-## Usage
-To use Aceelectron, you have to clone this repository to your local machine. To do that, you have to have Git installed on your machine. Then run the following command: </br>
+## Getting Started
+The following instructons will help you to use this boilerplate for your own projects.
+
+### Prerequisites
+To use this boilerplate you have to have the following packages install on your machine.
+* Git CLI - [Windows](https://git-scm.com/download/win), [Mac OS](https://git-scm.com/download/mac), [Linux](https://git-scm.com/download/linux)
+* NodeJS - [Download](https://nodejs.org)
+
+
+### Usage
+To use Aceelectron, you have to clone this repository to your local machine. To do that, run the following command: </br>
 ```
 git clone https://github.com/anantnrg/aceelectron myproj
 ```
 Here ```myproj``` is the name of your Electron.js project.
 
-Next, you have to install the required packages to run Electron.js. They have to be installed using Node.js. If you haven't installed it on your machine, then go to the [Node.js Website](https://nodejs.org) and download either the LTS release or latest stable release. Then install it by running the .exe file. After Node.js has been installed, run
+Next, you have to install the required packages to run Electron.js. They have to be installed using Node.js. To install these packages run:
 </br>
 ```
 cd myproj
@@ -90,3 +100,6 @@ If everything works, then a window will open up like this
 
 ## Contributing
 If you find a bug or issue please create and Issue so that myself or the community can fix it.If you want to just make this project even more awesome, feel free to create a Pull Request with your changes 🙂.
+
+## Authors
+* Anant Narayan - *Initial Work* - [Website](https://anantnrg.github.io), [GitHub](https://github.com/anantnrg)
