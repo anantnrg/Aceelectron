@@ -68,6 +68,8 @@ If everything works, then a window will open up like this
 :x:  Create Node.js package installable via npm
 </br>
 
+:x: Add electron_builder or electron_forge packager
+
 :heavy_check_mark:  Add Hot Reloading
 </br>
 
