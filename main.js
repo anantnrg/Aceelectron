@@ -1,6 +1,7 @@
 // Imports
 const { app, BrowserWindow, ipcMain, dialog } = require('electron');
 const { join } = require('path')
+require('electron-reload')(__dirname)
 
 // Global Variables
 const mainWindow = undefined;

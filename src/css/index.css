@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Poppins;
+    src: url(fonts/Poppins.ttf);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -15,6 +20,27 @@ body {
     width: 100vw;
     height: 100vh;
     border-radius: 10px;
-    background-color: #131418;
+    background-color: rgba(19, 20, 24, 0.95);
     overflow: hidden;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: calc(100vh - 30px);
+}
+
+h1 {
+    font-family: Poppins;
+    font-size: 98px;
+    color: #DD2C00;
+}
+
+h2 {
+    font-family: Poppins;
+    font-size: 48px;
+    color: #FAFAFA;
 }
