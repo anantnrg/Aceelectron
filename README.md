@@ -7,7 +7,7 @@
 
 <!-- TOC -->
 ## Table Of Contents
-- [Aceelectron](#Aceelectron-:-An-Awesome-Electron.js-Boilerplate)
+- [Aceelectron](#-Aceelectron-:-An-Awesome-Electron.js-Boilerplate)
    - [Usage](#Usage)
    - [Features](#Features)
    - [TODO](#TODO)
