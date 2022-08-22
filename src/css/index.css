@@ -1,11 +1,11 @@
 @font-face {
     font-family: Poppins;
-    src: url(fonts/Poppins.ttf);
+    src: url(../fonts/Poppins.ttf);
 }
 
 @font-face {
     font-family: Open Sans;
-    src: url(fonts/OpenSans.ttf);
+    src: url(../fonts/OpenSans.ttf);
 }
 
 * {
@@ -41,7 +41,10 @@ body {
 h1 {
     font-family: Poppins;
     font-size: 98px;
-    color: #DD2C00;
+    background: linear-gradient(to right, #0F29BE, #2962FF, #0F29BE);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
 }
 
 h2 {

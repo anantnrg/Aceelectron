@@ -18,7 +18,8 @@ const main = () => {
         webPreferences: ({
             nodeIntegration: true,
             contextIsolation: false
-        })
+        }),
+        icon: join(__dirname, 'src/icons/aceelectron.ico')
     })
 
     // Load the index.html file to display the webpage

@@ -10,9 +10,9 @@
     -webkit-app-region: drag;
 }
 
-.title_name {
-    font-family: montserrat;
-    font-size: 16px;
+.ticon {
+    width: 25px;
+    height: 25px;
     margin-left: auto;
     user-select: none;
 }
