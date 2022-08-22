@@ -77,11 +77,15 @@ If everything works, then a window will open up like this
 :heavy_check_mark:  Transparent/Translucent Window
 </br>
 
-:x:  Create Node.js package installable via npm
+:black_square_button:  Create Node.js package installable via npm
 </br>
 
-:x: Add electron_builder or electron_forge packager
+:black_square_button: Add electron_builder or electron_forge packager
 
 
 ## Known Bugs
 :heavy_check_mark: The position of the icon on the titlebar changes when padding or margin is applied to another component in the body.
+
+
+## Contributing
+If you find a bug or issue please create and Issue so that myself or the community can fix it.If you want to just make this project even more awesome, feel free to create a Pull Request with your changes 🙂.
