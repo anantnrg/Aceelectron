@@ -45,7 +45,7 @@ If everything works, then a window will open up like this
 
 ![ ](https://github.com/anantnrg/Aceelectron/blob/main/readme/aceelectron_dev_final.png?raw=true)
 
-</br> Congratulations! Now you can built upon this boilerplate code and make your awesome app using Electron.js.
+</br> Congratulations! Now you can build upon this boilerplate code and make your awesome app using Electron.js.
 
 ## Features
 
