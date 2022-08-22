@@ -5,8 +5,42 @@
 
 **Aceelectron** is an awesome Electron.js :electron: boilerplate. It is designed to acelerate your Electron.js app develeopment. It includes by default, a customized window, titlebar, rounded corners, a transparent background and Hot Reloading. It is built so that you can get a head start into Electron.js and don't have to spend time creating a base environment for your project.
 
+<!-- TOC -->
+## Table Of Contents
+- [Arduino Basics](#arduino-basics)
+  - [Commonly used pins for each boards](#commonly-used-pins-for-each-boards)
+  - [Pinouts](#pinouts)
+    - [Arduino Mega](#arduino-mega)
+    - [Arduino Uno Rev 3](#arduino-uno-rev-3)
+    - [Arduino Nano](#arduino-nano)
+    - [Arduino Leonardo](#arduino-leonardo)
+  - [Examples](#Examples)
+    - [Blink](#Blink)
+      - [Code](#Blink-Code)
+      - [Schematic](#Blink-Schematic)
+    - [Fade](#Fade) 
+      - [Code](#Fade-Code)
+      - [Schematic](#Fade-Schematic)
+    - [Analog Potentiometer](#Read-Analog-Potentiometer-value)
+      - [Code](#Potentiometer-Code) 
+      - [Schematic](#Potentiometer-Schematic)  
+    - [Play Melody using a Piezo Buzzer](#Play-a-Melody-using-a-Piezo-Buzzer) 
+      - [Code](#Pizeo-buzzer-Code)
+      - [Schematic](#Pizeo-buzzer-Schematic)
+    - [Pin Change Interrupts](#Pin-Change-Interrupts)
+      - [Code](#Pin-Change-Interrupt-Code)
+      - [Schematic](#Pin-Change-Interrupt-Schematic) 
+    - [LCD I2C](#LCD)
+      - [Code](#LCD-Display-Code)
+      - [Schematic](#LCD-Display-Schematic)  
+    - [PIR Sensor](#PIR-Sensor)
+      - [Code](#PIR-Sensor-Code)
+      - [Schematic](#PIR-Sensor-Schematic) 
+    - [Soil Moisture Sensor](#Soil-Moisture-Sensor)
+      - [Code](#Soil-Moisture-Sensor-Code)
+      - [Schematic](#Soil-Moisture-Sensor-Schematic)  
 
-
+<!-- /TOC -->
 
 ## Usage
 To use Aceelectron, you have to clone this repository to your local machine. To do that, you have to have Git installed on your machine. Then run the following command: </br>
@@ -57,3 +91,7 @@ If everything works, then a window will open up like this
 </br>
 
 :heavy_check_mark:  Transparent/Translucent Window
+
+
+## Known Bugs
+:x: The position of titlename label on the titlebar changes when padding or margin is applied to another component in the body.
