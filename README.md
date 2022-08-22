@@ -50,7 +50,7 @@ If everything works, then a window will open up like this
 
 
 ## TODO
-:heavy_check_mark:  Create Node.js package installable via npm
+:x:  Create Node.js package installable via npm
 </br>
 
 :heavy_check_mark:  Add Hot Reloading
