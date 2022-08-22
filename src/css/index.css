@@ -3,6 +3,11 @@
     src: url(fonts/Poppins.ttf);
 }
 
+@font-face {
+    font-family: Open Sans;
+    src: url(fonts/OpenSans.ttf);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -42,5 +47,11 @@ h1 {
 h2 {
     font-family: Poppins;
     font-size: 48px;
+    color: #FAFAFA;
+}
+
+p {
+    font-family: Open Sans;
+    font-size: 18px;
     color: #FAFAFA;
 }
