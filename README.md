@@ -61,6 +61,7 @@ If everything works, then a window will open up like this
 * Rounded Window Corners
 * Transparent/Translucent Window
 * Working Traffic Light Buttons
+* Custom Icon
 * HOT RELOADING!
 
 
