@@ -84,4 +84,4 @@ If everything works, then a window will open up like this
 
 
 ## Known Bugs
-:x: The position of the icon on the titlebar changes when padding or margin is applied to another component in the body.
+:heavy_check_mark: The position of the icon on the titlebar changes when padding or margin is applied to another component in the body.
