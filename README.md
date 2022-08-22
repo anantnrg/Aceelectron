@@ -65,15 +65,21 @@ If everything works, then a window will open up like this
 
 
 ## TODO
-:x:  Create Node.js package installable via npm
-</br>
 
-:x: Add electron_builder or electron_forge packager
 
 :heavy_check_mark:  Add Hot Reloading
 </br>
 
+✔️ Add custom icon
+</br>
+
 :heavy_check_mark:  Transparent/Translucent Window
+</br>
+
+:x:  Create Node.js package installable via npm
+</br>
+
+:x: Add electron_builder or electron_forge packager
 
 
 ## Known Bugs
