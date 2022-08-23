@@ -12,10 +12,13 @@ Made with :heart: by Anant Narayan. Check out my [other projects](https://github
 - [Aceelectron](#Aceelectron)
    - [Getting Started](#Getting-Started)
       - [Usage](#Usage)
-      - [Features](#Features)
-      - [TODO](#TODO)
-      - [Known Bugs](#Known-Bugs)
-      - [Contributing](#Contributing)
+   - [Features](#Features)
+   - [TODO](#TODO)
+   - [Known Bugs](#Known-Bugs)
+   - [Contributing](#Contributing)
+   - [Built With](#Built-With)
+   - [Authors](#Authors)
+   - [License](#License)
    
 
 <!-- /TOC -->
