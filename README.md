@@ -1,9 +1,9 @@
-# Aceelectron
+# ![ ](https://github.com/anantnrg/Aceelectron/blob/main/src/icons/aceelectron.ico) Aceelectron
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![ ](https://github.com/anantnrg/Aceelectron/blob/main/readme/aceelectron_mss.png?raw=true)
 
-**Aceelectron** (pronounced *eɪs-ɪˈlɛktrɒn*) is an awesome Electron.js :electron: boilerplate. It is designed to accelerate your Electron.js app develeopment. It includes by default, a customized window, titlebar, rounded corners, a transparent background, a custom icon and Hot Reloading. It is built so that you can get a head start into Electron.js and don't have to spend time creating a base environment for your project.
+**Aceelectron** (pronounced *eɪs-ɪˈlɛktrɒn*) is an awesome Electron.js :electron:  boilerplate. It is designed to accelerate your Electron.js app develeopment. It includes by default, a customized window, titlebar, rounded corners, a transparent background, a custom icon and Hot Reloading. It is built so that you can get a head start into Electron.js and don't have to spend time creating a base environment for your project.
 
 Made with :heart: by Anant Narayan. Check out my [other projects](https://github.com/anantnrg)
 
@@ -98,8 +98,22 @@ If everything works, then a window will open up like this
 :heavy_check_mark: The position of the icon on the titlebar changes when padding or margin is applied to another component in the body.
 
 
+## Built With
+[Electron.js](https://electronjs.org) - Native app development tool based on Node.js and JavaScript
+</br>
+
+[Figma](https://figma.com) - Icon creation
+</br>
+
+[Visual Studio Code](https://code.visualstudio.com) - Code Editor for development
+
+
 ## Contributing
 If you find a bug or issue please create and Issue so that myself or the community can fix it.If you want to just make this project even more awesome, feel free to create a Pull Request with your changes 🙂.
 
 ## Authors
 * Anant Narayan - *Initial Work* - [Website](https://anantnrg.github.io), [GitHub](https://github.com/anantnrg)
+
+
+## License
+This project is licensed under the Apache-2.0 licence - see the [LICENSE.md](https://github.com/anantnrg/Aceelectron/blob/main/LICENSE) file for details.
