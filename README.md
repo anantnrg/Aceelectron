@@ -27,38 +27,38 @@ Made with :heart: by Anant Narayan. Check out my [other projects](https://github
 The following instructons will help you to use this boilerplate for your own projects.
 
 ### Prerequisites
-To use this boilerplate you have to have the following packages install on your machine.
+To use this boilerplate you have to have the following packages installed on your machine.
 * Git CLI - [Windows](https://git-scm.com/download/win), [Mac OS](https://git-scm.com/download/mac), [Linux](https://git-scm.com/download/linux)
 * NodeJS - [Download](https://nodejs.org)
 
 
 ### Usage
 To use Aceelectron, you have to clone this repository to your local machine. To do that, run the following command: </br>
-```
-git clone https://github.com/anantnrg/aceelectron myproj
+```bash
+git clone https://github.com/anantnrg/aceelectron <myproj>
 ```
 Here ```myproj``` is the name of your Electron.js project.
 
 Next, you have to install the required packages to run Electron.js. They have to be installed using Node.js. To install these packages run:
 </br>
-```
+```bas
 cd myproj
 ```
 to change directory into your downloaded folder, then run
 </br>
-```
+```bas
 npm install
 ```
 to install the dependencies and 
 </br>
-```
+```bash
 npm install electron electron-reload
 ```
 to install Electron.js and the electron-reload package. The electron-reload package is what enables the Hot Reloading i.e., when you change the HTML, CSS or ```renderer.js``` file, your app will be reloaded automatically. Note that this does not reload the app if you make any changes to the ```main.js``` file.
 
 Then you can run the app by entering
 </br>
-```
+```bash
 npm start
 ```
 If everything works, then a window will open up like this 
@@ -85,7 +85,7 @@ If everything works, then a window will open up like this
 :heavy_check_mark:  Add Hot Reloading
 </br>
 
-✔️ Add custom icon
+:heavy_check_mark:  Add custom icon
 </br>
 
 :heavy_check_mark:  Transparent/Translucent Window
